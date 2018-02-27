@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+I say to computer, that this directory will be repositiory and there is need to track files in it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is between working repository and working directory. We can better organize commits.
