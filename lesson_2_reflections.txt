@@ -21,3 +21,7 @@ It's more clear than just list of commits and branches
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Now game have features from both branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It will be many questions to solve whem merging.
