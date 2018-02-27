@@ -17,3 +17,7 @@ when I need to test new feature or add localisation but don't want this changes 
 How do the diagrams help you visualize the branch structure?
 
 It's more clear than just list of commits and branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Now game have features from both branches.
