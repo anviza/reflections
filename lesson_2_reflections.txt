@@ -9,3 +9,7 @@ It is between working repository and working directory. We can better organize c
 How can you use the staging area to make sure you have one commit per logical change?
 
 git diff --staged to compare files in staging area with most recent commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when I need to test new feature or add localisation but don't want this changes in main programm for now. 
