@@ -5,3 +5,7 @@ I say to computer, that this directory will be repositiory and there is need to 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It is between working repository and working directory. We can better organize commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+git diff --staged to compare files in staging area with most recent commit
