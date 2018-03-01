@@ -9,3 +9,7 @@ Because of probable conflicts.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks only on GitHub. Clones and Branches both.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+I don't know
