@@ -17,3 +17,7 @@ I don't know
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Email, shared folder, Google Docs. Harder to organise. Easier for novices.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Branches are for testing purposes. So if we don't want to break master, we need to use branches.
